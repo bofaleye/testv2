@@ -1,0 +1,49 @@
+.avartar {
+    height: 89px;
+    width: 89px;
+}
+
+.avartar-container{
+    position: relative;
+}
+
+.lower-card{
+    background-color: #EAE8FE;
+    border-radius: 0px 0px 8px 8px;
+    width: 100%;
+    height: 41px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #8463E7;
+}
+
+.str-decor{
+    text-decoration: underline;
+}
+
+.card-inner {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 108px;
+}
+
+.header-txt{
+    margin: 0px;
+    font-size: 17px;
+}
+
+.header-des{
+    font-size: 14px;
+}
+
+.header-ctn{
+    margin-left: 50px;
+}
+
+.MuiSvgIcon-fontSizeLarge{
+ height: 40px !important;
+}
